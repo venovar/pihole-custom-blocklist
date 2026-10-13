@@ -1,3 +1,8 @@
-# Custom Pi-hole block list
+# Personal Pi-hole Custom Blocklist
+# Kick
 kick.com
+www.kick.com
+
+# Twitch
 twitch.tv
+www.twitch.tv
