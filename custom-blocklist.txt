@@ -1,0 +1,3 @@
+# Custom Pi-hole block list
+kick.com
+twitch.tv
