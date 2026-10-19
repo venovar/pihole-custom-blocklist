@@ -2,3 +2,9 @@
 # Twitch
 twitch.tv
 www.twitch.tv
+
+# Yandex
+yandex.com
+yandex.com.tr
+www.yandex.com
+www.yandex.com.tr
